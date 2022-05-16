@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, sou Thaina</h1>
-<h3 align="center">Eu sou um estudante de desenvolvimento no Brasil</h3</h3< >
+<h3 align="center">Eu sou um estudante de desenvolvimento do Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337thai&label=Profile%20views&color=0e75b6&style=flat" alt="1337thai" /> </p>
 
