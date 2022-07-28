@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+![spaceeeeee](https://cdn.acidcow.com/pics/20200218/1582045338_i667u1dvwt.gif)  
   
 
 ### <div align="center">I'm a dev student from Brazil 👩‍💻</div>  
@@ -10,9 +8,6 @@
   
 
 - ⚡ Fun fact i really love Capybaras  
-  
-
-<img src="https://cdn.acidcow.com/pics/20200218/1582045338_i667u1dvwt.gif" align="left" height="" width="600" />  
   
 
 <br/>  
@@ -84,12 +79,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=1337thai&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+ 
