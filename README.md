@@ -106,4 +106,3 @@
 <br />
 
 ----
-![Snake animation](https://github.com/1337thai/1337thai/blob/output/github-contribution-grid-snake.svg)
