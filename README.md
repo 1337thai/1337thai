@@ -106,4 +106,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Snake animation](https://github.com/1337thai/1337thai/blob/output/github-contribution-grid-snake.svg)
