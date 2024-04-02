@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/1337thai/css/blob/master/ai.gif?raw=true" align="center" style="width: 100%" />
+<img src="![image](https://github.com/1337thai/1337thai/assets/105496462/eaa57f4f-2dcd-4ffa-8c06-98674976ce51)" align="center" style="width: 100%" />
 </div>  
   
 
