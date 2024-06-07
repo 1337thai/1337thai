@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Thaina, but you can call me Thai! 🏵️  
   
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thainaraujo/" target="_blank">
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/thainaraujo/](https://www.linkedin.com/in/thainaraujo/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
