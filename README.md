@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjV3M3VwMXRrNGRhZXlkOHQ3eWd6eHA0b2JycWg1dmo2a2w0amt2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amrNGnZUeWhZC/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyYmwya2M1Ym03aTUybmV4bDlweDNkNHJxcDMwcWd4MDR3dDk0bWVtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AFdcYElkoNAUE/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -16,20 +16,6 @@
   
 
 - ⚡ Fun fact: Messy data gives me chills 😅  
-  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/1337thai" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thainaraujo" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
 <br/>  
