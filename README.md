@@ -6,8 +6,6 @@
 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/1337thai)  
-  
 
 - 🌱 Developing my skills in Python, SQL, and data analysis  
   
