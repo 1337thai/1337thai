@@ -10,7 +10,7 @@
 - 🌱 Developing my skills in Python, SQL, and data analysis  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Got questions about Python, SQL, or data magic? Ask me!
   
 
 - ⚡ Fun fact: Messy data gives me chills 😅  
