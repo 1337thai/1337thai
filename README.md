@@ -1,52 +1,39 @@
-### <div align="center">Hello! I’m Thai! Data Enthusiast | Problem Solver 🏵️</div>  
-  
+## <div align="right">Hello! I'm Thaina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+
+### Glad to see you here!  
+I’m a data professional with experience in collecting, cleaning, integrating, and analyzing data to support strategic, data-driven decisions. I work extensively with Python, SQL, Excel, and Google Cloud Platform (GCP), including BigQuery, Data Studio, Cloud Storage, and Cloud Functions, focusing on API automation and data manipulation from platforms like Google Ads, Meta, TikTok, and Funnel.io.  
+
+<br/>
+
+<table><tr><td valign="top" width="50%">
+
+- 🌱 I’m currently learning Python, SQL and Java      
+- ⚡ Fun fact: I keep night shift switched on at all times  
+
+</td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.imgur.com/yX8qwnz.gif" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN0Z2EwcG52aWFzamoyZWtlOXo0cmI5cW54dWx1bjlremZmMW44NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif" style="width: 100%" />
+</div>
 
+</td></tr></table>  
 
-- 🌱 Developing my skills in Python, SQL, and data analysis  
-  
+<br/>
 
-- ❓ Got questions about Python, SQL, or data magic? Ask me!
-  
-
-- ⚡ Fun fact: Messy data gives me chills 😅  
-  
-
-<br/>  
-
-
-## My Skill Set  
-
-
-### Tools  
+## Languages and Tools  
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=1337thai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=1337thai&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=1337thai&&style=flat-square" />
 </div>  
 
-<br />
-
-----
-
+<br/>
