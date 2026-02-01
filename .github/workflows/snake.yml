@@ -12,19 +12,13 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Create dist folder
-        run: mkdir -p dist
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
+          github_user_name: 1337thai
           github_user_name: 1337thai
           outputs: dist/snake.svg
 
-      - name: Publish to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
