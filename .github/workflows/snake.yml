@@ -2,24 +2,35 @@ name: Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 */6 * * *'  # roda a cada 6 horas
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: 1337thai
-          outputs: dist/snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
-          target_branch: output
-          build_dir: dist
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git checkout --orphan output
+          git reset --hard
+          git add dist
+          git commit -m "Update Snake SVG"
+          git push -f origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
