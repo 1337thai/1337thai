@@ -33,6 +33,12 @@ I’m a data professional with experience in collecting, cleaning, integrating, 
 <br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/1337thai/1337thai/output/dist/snake.svg" alt="Snake GitHub Contribution" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=1337thai&&style=flat-square" />
 </div>  
 
